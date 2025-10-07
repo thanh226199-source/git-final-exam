@@ -10,7 +10,13 @@ Ngày kết thúc: 13/10/2025
 6. Thứ 6: Chuẩn bị nộp báo cáo.
 7. Thứ 7: Kiểm tra lại toàn bộ repo, chụp ảnh.
 
+<<<<<<< Updated upstream
 Ghi chú thêm (nháp):
 - Tối ưu hóa thời gian học.
 - Tổ chức tài liệu học tập.
 - Thực hành hàng ngày.
+=======
+Thêm nội dung 2:
+- Kiểm tra tiến độ hàng ngày.
+- Điều chỉnh mục tiêu nếu cần.
+>>>>>>> Stashed changes
