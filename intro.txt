@@ -1,3 +1,22 @@
-The AT command has been deprecated. Please use schtasks.exe instead.
+Hello, this is Nguyễn Văn A
+Tôi tên là Nguyễn Văn A.
+Lớp: CNTT K64.
+MSSV: 12345678.
+Hiện đang học Git và quản lý mã nguồn.
 
-The request is not supported.
+Sở thích:
+- Lập trình
+- Đọc sách
+- Chơi bóng đá
+
+Kỹ năng:
+- Python
+- Git
+- HTML/CSS
+
+Kế hoạch học tập:
+1. Dành 1 giờ học Git mỗi ngày.
+2. Luyện tập commit và branch.
+3. Làm bài tập thực hành.
+4. Học rebase, merge, revert.
+5. Ôn tập sau mỗi tuần.
