@@ -1,0 +1,5 @@
+Tính năng mới:
+Một hệ thống tự động kiểm tra commit message và format code.
+- Kiểm tra commit message theo chuẩn.
+- Tự động chạy lint trước khi merge.
+- Gửi thông báo nếu có lỗi.
