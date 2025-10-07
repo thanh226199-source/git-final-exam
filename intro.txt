@@ -1,0 +1,15 @@
+Giới thiệu:
+Tôi tên là Nguyễn Duy Thanh
+Lớp: DH22TIN02
+MSSV: 226199
+Hiện đang học Git và quản lý mã nguồn.
+
+Sở thích:
+- Lập trình
+- câu cá
+- Chơi bóng đá
+
+Kỹ năng:
+- Python
+- Git
+- HTML/CSS
