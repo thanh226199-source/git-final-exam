@@ -1,0 +1,5 @@
+- Git giúp quản lý lịch sử.
+- Git giúp làm việc nhóm.
+- Git có nhiều lệnh mạnh mẽ.
+- Tôi thấy Git hơi khó ban đầu.
+- Nhưng rất hữu ích khi quen.
