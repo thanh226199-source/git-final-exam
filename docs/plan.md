@@ -9,3 +9,8 @@ Ngày kết thúc: 13/10/2025
 5. Thứ 5: Thực hành giải xung đột merge.
 6. Thứ 6: Chuẩn bị nộp báo cáo.
 7. Thứ 7: Kiểm tra lại toàn bộ repo, chụp ảnh.
+
+Ghi chú thêm (nháp):
+- Tối ưu hóa thời gian học.
+- Tổ chức tài liệu học tập.
+- Thực hành hàng ngày.
